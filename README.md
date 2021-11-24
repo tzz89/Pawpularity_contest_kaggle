@@ -1,9 +1,9 @@
 ## Pawpularity Contest
 This repository contains the EDA, training and submission code for kaggle Pawpularity contest competition
-### kaggle link
+### Kaggle link
 https://www.kaggle.com/c/petfinder-pawpularity-score
 
-### technologies used in these notebooks
+### Technologies used in these notebooks
 1. swinTransformer
 2. EfficientNet
 3. Training if mixed precision
