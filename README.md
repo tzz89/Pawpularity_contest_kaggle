@@ -26,6 +26,6 @@ https://wandb.ai/zuozhe/Pawpularity/reports/Pawpularity-training-charts--Vmlldzo
 ## GradCAM swinTransformer
 We could see that we are not getting good results with swinTransformers
 <p align="center">
-<img src="assets/swinTransformer_gradcam.png" height="1500px" width="800px">
+<img src="assets/swinTransformer_gradcam.png" height="1500px" width="800px" style="margin: 5px">
 </p>
 
