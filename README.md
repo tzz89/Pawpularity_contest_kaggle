@@ -20,12 +20,12 @@ https://wandb.ai/zuozhe/Pawpularity/reports/Pawpularity-training-charts--Vmlldzo
 
 ## GradCAM efficientNet
 <p align="center">
-<img src="assets/efficientNetb3_gradcam.png" height="1500px" width="800px">
+<img src="assets/efficientNetb3_gradcam.png" height="2500px" width="800px">
 </p>
 
 ## GradCAM swinTransformer
 We could see that we are not getting good results with swinTransformers
-<p align="center">
-<img src="assets/swinTransformer_gradcam.png" height="1500px" width="800px" style="margin: 5px">
+<p align="center" style="margin: 5px">
+<img src="assets/swinTransformer_gradcam.png" height="2500px" width="800px" >
 </p>
 
